@@ -1,6 +1,6 @@
 Sujana Kandel
 
-Software Developer** · Nepal
+Software Developer · Nepal
 
 I develop web applications using JavaScript and React.js, with backend services built using Node.js and Express.js.
 
